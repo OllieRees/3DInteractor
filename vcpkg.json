@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "vsg",
+    {
+      "name": "vsgxchange",
+      "features": ["curl"]
+    }
+  ]
+}
